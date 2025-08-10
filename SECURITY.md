@@ -29,7 +29,7 @@
 We take security seriously. If you discover a security vulnerability, please:
 
 1. **Do NOT create a public GitHub issue**
-2. **Contact us privately** via email: security@universalnft.com
+2. **Contact us privately** 
 3. **Provide detailed information**:
    - Description of the vulnerability
    - Steps to reproduce
