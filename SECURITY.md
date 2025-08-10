@@ -82,12 +82,5 @@ We believe in responsible disclosure and will:
 - Release security advisories for significant vulnerabilities
 - Coordinate disclosure timing with reporters
 
-## Contact Information
-
-- **Security Email**: security@universalnft.com
-- **General Contact**: hello@universalnft.com
-- **GitHub Issues**: For non-security related issues only
 
 ---
-
-Thank you for helping keep Universal NFT Program secure!
