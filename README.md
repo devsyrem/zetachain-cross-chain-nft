@@ -6,9 +6,9 @@
 A comprehensive Solana program enabling secure cross-chain NFT transfers between Solana and EVM chains through ZetaChain's interoperability protocol.
 
 ## 🏆 **For Bounty Judges** 
-**⚡ Quick Evaluation**: [`docs/JUDGE_NAVIGATION.md`](docs/JUDGE_NAVIGATION.md) - Complete evaluation guide with code proof  
-**🎯 Criteria Compliance**: [`COMPLIANCE.md`](COMPLIANCE.md) - Every requirement mapped to implementation 
-**⚡ Quick Evaluation**: [`Run Tests in Ready Environment`](https://replit.com/@devsyrem88/CrossChainSwap) - Complete evaluation guide with code proof
+**⚡ Quick Evaluation**: [`docs/JUDGE_NAVIGATION.md`](docs/JUDGE_NAVIGATION.md) - Complete evaluation guide with code proof
+**🎯 Criteria Compliance**: [`COMPLIANCE.md`](COMPLIANCE.md) - Every requirement mapped to implementation
+**🧪 Run Tests**: [`Run Tests in Ready Environment`](https://replit.com/@devsyrem88/CrossChainSwap) - Complete evaluation guide with code proof
 **🚀 Live Demo Results**: [`CROSS_CHAIN_DEMO_RESULTS.md`](CROSS_CHAIN_DEMO_RESULTS.md) - Successful cross-chain NFT operations
 **✅ Test Verification**: `node run-simple-tests.js` → **8/8 tests passing (100% success)**
 
